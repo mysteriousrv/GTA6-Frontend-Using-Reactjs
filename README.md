@@ -48,7 +48,7 @@ A modern, animated landing page inspired by Grand Theft Auto VI, built with **Re
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mysteriousrv/gta6-landing-page.git
+   https://github.com/mysteriousrv/GTA6-Frontend-Using-Reactjs.git
    
 cd gta6-landing-page
 
